@@ -7,7 +7,7 @@ A simple implementation of an information system for a parcel company.
 - [2. Consortium](2.Consortium)
 - [3. Project structure](3.Project_structure)
 - [4. Building and running](4.Building_and_running)
-- [5. Demonstration](5.Demonstration)
+
 
 ## 1. Description
 
@@ -35,4 +35,4 @@ This project is structured in the following way:
 
 The directions for how to build and run these modules are located in the README.md in each subdirectory.
 
-## 5. Demonstration
+
