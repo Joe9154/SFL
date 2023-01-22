@@ -1,7 +1,7 @@
 # SFL-Webapp
 
 ## 1. Description
-The model TPO-Webapp contains the implementation of the client web application for the SFL project. Its purpose is to provide the end user data about their parcels and the option for creating new ones. 
+The model SFL-Webapp contains the implementation of the client web application for the SFL project. Its purpose is to provide the end user data about their parcels and the option for creating new ones. 
 
 The interface was build using HTML, CSS, JS & Boostrap technologies. It communicates with the backend API using HTTP requests, handled by Javascript. 
 
