@@ -28,7 +28,7 @@ should be placed into the target directory. The module can be run via
 the `Main.java` file.
 
 ## 4. GUI Screenshots
-- Figma: [mockup](https://www.figma.com/file/fJDhtYnvsypMELtSx9uONq/SFL-Warehouse-Dashboard?node-id=0%3A1&t=FPL7poMR6UHY8PN0-1)
+- Figma: [UI mockup](https://www.figma.com/file/fJDhtYnvsypMELtSx9uONq/SFL-Warehouse-Dashboard?node-id=0%3A1&t=FPL7poMR6UHY8PN0-1)
 ***
 ![Screenshot1](/src/native/src/res/Screenshot1.png)
 ***
