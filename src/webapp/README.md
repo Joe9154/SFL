@@ -11,3 +11,7 @@ The HTML files provide the end user with a visual interface, and the Javascript 
 ## 2. Structure
 - `res`: This folder contains the various resources needed for a functional website, such as images, logos, etc.
 - `src`: This folder contains all the HTML, CSS and JavaScript files for the user interface.
+
+
+## 3. Screenshots
+![Screenshots](res/screenshot1.png)
