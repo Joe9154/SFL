@@ -28,9 +28,9 @@ should be placed into the target directory. The module can be run via
 the `Main.java` file.
 
 ## 4. GUI Screenshots
-![Screenshots](src/native/src/res/Screenshot1.png)
-![Screenshots](src/native/src/res/Screenshot2.png)
-![Screenshots](src/native/src/res/Screenshot3.png)
-![Screenshots](src/native/src/res/Screenshot4.png)
-![Screenshots](src/native/src/res/Screenshot5.png)
+![Screenshot1](src/native/src/res/Screenshot1.png)
+![Screenshot2](src/native/src/res/Screenshot2.png)
+![Screenshot3](src/native/src/res/Screenshot3.png)
+![Screenshot4](src/native/src/res/Screenshot4.png)
+![Screenshot5](src/native/src/res/Screenshot5.png)
 
