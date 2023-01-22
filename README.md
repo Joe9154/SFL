@@ -1,4 +1,4 @@
-# SFL-TPO
+# SFL - Simple Flyway Logistics
 
 A simple implementation of an information system for a parcel company.
 
