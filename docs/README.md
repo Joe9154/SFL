@@ -68,7 +68,7 @@ Zaposlenemu se glede na njegovo vlogo v podjetju (uporabniška hierarhija) odpre
 Zaslonske slike so dostopne na [povezavi](https://github.com/cugalord/SFL-TPO/tree/main/docs/mobile).
 
 ## Možne nadgradnje
-Možne nadgradnje za $$$:
+Možne nadgradnje:
 - optimizacija routing algoritma
 - lepši izgled mobilne aplikacije za zaposlene
 - lepši izgled spletne aplikacije
