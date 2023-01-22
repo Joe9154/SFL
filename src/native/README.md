@@ -26,3 +26,11 @@ The module structure is as follows:
 The module SFL-Native should be build via an IDE, and output classes
 should be placed into the target directory. The module can be run via
 the `Main.java` file.
+
+## 4. GUI Screenshots
+![Screenshots](src/native/src/res/Screenshot1.png)
+![Screenshots](src/native/src/res/Screenshot2.png)
+![Screenshots](src/native/src/res/Screenshot3.png)
+![Screenshots](src/native/src/res/Screenshot4.png)
+![Screenshots](src/native/src/res/Screenshot5.png)
+
