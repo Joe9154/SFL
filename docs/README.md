@@ -76,4 +76,4 @@ Možne nadgradnje za $$$:
 - mobilna aplikacija za stranke
 - OLAP storitve za logistike (grafana, olap kocka...)
 
-![rich_nibbas](https://img.nftically.com/mainnets-assets/assets/0d397b45-e761-429d-bf0a-973c288117d7/57dee7db7cae4f8e9f342f5d3dd9a140/E-h8j20XMAMco5d.jpg?tr=n-item_page_preview,q-80)
+
